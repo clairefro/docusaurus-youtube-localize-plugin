@@ -44,7 +44,9 @@ module.exports = {
 ```
 
 ## Troubleshooting
+
 **Why aren't captions showing up???**
+
 Subtitles will only appear in any given language if the video owner has officially published subtitles in that language.
 
 The params used in the plugin do not allow for forcing auto-generated or auto-translated captions (although users can still click to enable those). If you are the video owner, note that it is simple to officially publish auto-generated subtitles using the Youtubes in-house tool Youtube Studio.
